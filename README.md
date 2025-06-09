@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Guy-art-cloud
-- 👀 I’m interested in python
-- 🌱 I’m currently learning french
+- 👀 I’m interested in voicemeeter and généraly MAO
+- 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to collaborate on... oh no i'm old and a little stupid
-- 📫 How to reach me ...
+- 📫 How to reach me ...bluebatguy@free.fr
 - 😄 Pronouns: BatGuy
 - ⚡ Fun fact: je rame avec voicemeeter
 
